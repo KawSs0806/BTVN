@@ -1,0 +1,28 @@
+#into h2{
+	color: #FFD700;
+	text-decoration: underline;	
+}
+
+#into p{
+	font-style: italic;
+}
+
+#content h2{
+	color: #FFD700;
+}
+
+#content p{
+	background-color: green;
+}
+
+#content .bordered p{
+	background-color:  blue;
+	padding-right: 25px;
+	border: 1px solid red;
+}
+
+#footer h2{
+	color: #FFD700;
+	padding-right: 25px;
+	border: 2px solid grey;
+}
